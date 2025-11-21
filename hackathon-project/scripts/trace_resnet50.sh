@@ -9,6 +9,7 @@ mkdir -p "$TRACES_DIR"
 
 echo "--------------------------------------------------------------"
 echo "tracing resnet50 with valgrind"
+echo "this will take awhile"
 echo "output: $TRACES_DIR/resnet50_cpu.stl"
 echo "--------------------------------------------------------------"
 
