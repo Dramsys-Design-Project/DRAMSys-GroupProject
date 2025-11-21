@@ -1,0 +1,17 @@
+{
+    "simulation": {
+        "simulationid": "ai_baseline_ddr4",
+        "simulationname": "AI Inference Baseline DDR4",
+        "simconfig": "simconfigs/default.json",
+        "memspec": "memspecs/DDR4-2400-8-8-8.json",
+        "addressmapping": "addressmappings/am_ddr4_8Gb_x8_1ch_1r.json",
+        "mcconfig": "mcconfigs/fifo.json",
+        "tracesetup": [
+            {
+                "name": "traces/resnet50_synthetic.stl",
+                "clkMhz": 1000,
+                "type": "player"
+            }
+        ]
+    }
+}

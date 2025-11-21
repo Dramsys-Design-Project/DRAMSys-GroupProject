@@ -1,0 +1,40 @@
+{
+  "best_config": {
+    "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+    "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+    "mcconfig": "mcconfig/fr_fcfs.json",
+    "fitness": Infinity
+  },
+  "all_generations": [
+    {
+      "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+      "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": Infinity
+    },
+    {
+      "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+      "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": Infinity
+    },
+    {
+      "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+      "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": Infinity
+    },
+    {
+      "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+      "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": Infinity
+    },
+    {
+      "memspec": "memspec/JEDEC_4x64_2Gb_WIDEIO2-400_64bit.json",
+      "addressmapping": "addressmapping/am_wideio_4x256Mb_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": Infinity
+    }
+  ]
+}

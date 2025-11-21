@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "config": "Baseline (FIFO)",
+    "total_time_ps": 639765658,
+    "bandwidth_gbps": 40.01
+  },
+  "optimized": {
+    "config": "Optimized (FR-FCFS)",
+    "total_time_ps": 639765658,
+    "bandwidth_gbps": 40.01
+  },
+  "improvements": {
+    "time_reduction_percent": 0.0,
+    "bandwidth_increase_percent": 0.0,
+    "speedup_factor": 1.0
+  }
+}

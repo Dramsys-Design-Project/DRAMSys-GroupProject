@@ -1,0 +1,398 @@
+{
+  "timestamp": "2025-11-20T19:00:22.419297",
+  "best_configuration": {
+    "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+    "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+    "mcconfig": "mcconfig/fr_fcfs.json",
+    "fitness": 642676160,
+    "bandwidth": 39.83,
+    "success": true
+  },
+  "all_generations": [
+    {
+      "generation": 1,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 1,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 838026352,
+      "bandwidth": 30.55,
+      "success": true
+    },
+    {
+      "generation": 1,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 838026352,
+      "bandwidth": 30.55,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 3,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 4,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 5,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 8,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 838026352,
+      "bandwidth": 30.55,
+      "success": true
+    },
+    {
+      "generation": 2,
+      "individual": 9,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 3,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 814449923,
+      "bandwidth": 31.43,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 5,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 814449923,
+      "bandwidth": 31.43,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 838026352,
+      "bandwidth": 30.55,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 8,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 3,
+      "individual": 9,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 3,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fifo.json",
+      "fitness": 814449923,
+      "bandwidth": 31.43,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 4,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 4,
+      "individual": 8,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-1866_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 650505680,
+      "bandwidth": 39.35,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 3,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 4,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 5,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 8,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 5,
+      "individual": 9,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 2,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 3,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 4,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 5,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 6,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    },
+    {
+      "generation": 6,
+      "individual": 7,
+      "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+      "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+      "mcconfig": "mcconfig/fr_fcfs.json",
+      "fitness": 642676160,
+      "bandwidth": 39.83,
+      "success": true
+    }
+  ],
+  "summary": {
+    "total_configurations_tested": 38,
+    "generations": 6,
+    "population_size": 10
+  }
+}

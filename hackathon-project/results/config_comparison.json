@@ -1,0 +1,38 @@
+[
+  {
+    "config_name": "baseline_ddr4_2400",
+    "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+    "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+    "mcconfig": "mcconfig/fr_fcfs.json",
+    "total_time_ps": 642676160,
+    "avg_bandwidth_gbps": 39.83,
+    "success": true
+  },
+  {
+    "config_name": "fast_ddr4_3200",
+    "memspec": "memspec/JEDEC_4Gb_DDR4-3200_8bit_A.json",
+    "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+    "mcconfig": "mcconfig/fr_fcfs.json",
+    "total_time_ps": null,
+    "avg_bandwidth_gbps": null,
+    "success": false
+  },
+  {
+    "config_name": "ddr4_2400_fifo",
+    "memspec": "memspec/JEDEC_4Gb_DDR4-2400_8bit_A.json",
+    "addressmapping": "addressmapping/am_ddr4_8x4Gbx8_dimm_p1KB_brc.json",
+    "mcconfig": "mcconfig/fifo.json",
+    "total_time_ps": 814449923,
+    "avg_bandwidth_gbps": 31.43,
+    "success": true
+  },
+  {
+    "config_name": "lpddr4_fast",
+    "memspec": "memspec/JEDEC_LPDDR4_8Gb_die_x16_3200.json",
+    "addressmapping": "addressmapping/am_lpddr4_8Gbx16_brc.json",
+    "mcconfig": "mcconfig/fr_fcfs.json",
+    "total_time_ps": null,
+    "avg_bandwidth_gbps": null,
+    "success": false
+  }
+]
